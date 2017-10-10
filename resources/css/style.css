@@ -10,10 +10,24 @@ h1{
   font-size: 50px;
 }
 
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+p{
+  font-size: 21px;
+  color: gray;
+}
+
 .cta{
   color: aquamarine;
   font-size: 16px;
 }
+
+.footer{
+  text-align: right;
+}
+
 a:-webkit-any-link{
   cursor: auto;
   text-decoration: underline;
